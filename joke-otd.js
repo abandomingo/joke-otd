@@ -1,3 +1,5 @@
+// This JavaScript file was created with the assistance of GitHub Copilot (AI).
+
 document.addEventListener('DOMContentLoaded', () => {
   const jokeEl = document.querySelector('.joke');
   const authorEl = document.querySelector('.author');
